@@ -1,0 +1,12 @@
+### 📄 Project Description
+
+This project aims to build predictive machine learning models to estimate car prices in the American automobile market. A Chinese automobile company planning to expand into the US market wants to understand the key factors that influence car pricing. The goal is to identify the most significant variables affecting car prices and develop accurate regression models that can predict pricing based on these factors.
+
+The analysis includes:
+- Data preprocessing and feature engineering,
+- Implementation of multiple regression models,
+- Evaluation and comparison of model performance,
+- Feature importance analysis, and
+- Hyperparameter tuning for model optimization.
+
+This study will help the company make strategic decisions regarding car design, features, and pricing in alignment with the dynamics of the American market.
